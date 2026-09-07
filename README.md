@@ -86,40 +86,39 @@ class About extends Me {
 
 <div align="center">
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<a href="https://github.com/Muhamed-Sultan">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhamed-Sultan&show_icons=true&theme=nord&hide_border=true"
-     width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhamed-Sultan&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhamed-Sultan&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhamed-Sultan&theme=nord_dark" width="32.5%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamed-Sultan&layout=compact&theme=nord&hide_border=true"
-     width="48%">
+</a>
 
-</p>
+<details>
 
-<br>
+<summary>More stats</summary>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhamed-Sultan&theme=nord_dark"
-     width="90%">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhamed-Sultan&theme=nord_dark">
 
-<br><br>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhamed-Sultan&theme=nord_dark"
-     width="32%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhamed-Sultan&theme=nord_dark"
-     width="32%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhamed-Sultan&theme=nord_dark"
-     width="32%">
-
-</p>
+</details>
 
 <hr>
 
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+
+</div>
 **Code Cycle**<br>
 
 <p align="center">
