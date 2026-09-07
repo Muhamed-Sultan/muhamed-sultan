@@ -9,17 +9,18 @@
      width="40%"/> <br>
 
 <details>
+
 <p><strong><summary>Busy coding & Vibing to :</summary></strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhamed_Sultan&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhamed-Sultan&style=flat&color=orange&label=PROFILE+VIEWS)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhamed_Sultan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhamed-Sultan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![GitHub](https://img.shields.io/badge/Muhamed%20Sultan-grey?style=flat&logo=github)](https://github.com/Muhamed_Sultan)
+[![GitHub](https://img.shields.io/badge/Muhamed%20Sultan-grey?style=flat&logo=github)](https://github.com/Muhamed-Sultan)
 
 <br>
 
