@@ -68,3 +68,78 @@ class About extends Me {
   };
 }
 ```
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
+  &nbsp; I'm currently learning and improving my skills in **Flutter & Dart**.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
+  &nbsp;&nbsp;&nbsp; I enjoy building **Mobile Applications with Flutter**.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
+  &nbsp;&nbsp; Ask me about **Flutter, Dart, C++, Python or OOP**.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
+  &nbsp; I use **Git & GitHub** to manage and share my projects.
+
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
+  &nbsp;&nbsp;&nbsp;&nbsp;Always learning and building new things 🚀
+
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhamed-Sultan&show_icons=true&theme=nord&hide_border=true"
+     width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamed-Sultan&layout=compact&theme=nord&hide_border=true"
+     width="48%">
+
+</p>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhamed-Sultan&theme=nord_dark"
+     width="90%">
+
+<br><br>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhamed-Sultan&theme=nord_dark"
+     width="32%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhamed-Sultan&theme=nord_dark"
+     width="32%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhamed-Sultan&theme=nord_dark"
+     width="32%">
+
+</p>
+
+<hr>
+
+**Code Cycle**<br>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"
+     width="10%"
+     alt="Still debugging!"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png"
+     width="10%"
+     alt="It works!"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png"
+     width="10%"
+     alt="I have no idea why it works!"/>
+
+</p>
+
+<br>
+
+<h3>🚀 Muhamed Sultan | Flutter Developer</h3>
+
+</div>
