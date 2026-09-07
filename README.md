@@ -17,6 +17,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhamed_Sultan&style=flat&color=orange&label=PROFILE+VIEWS)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhamed_Sultan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+[![GitHub](https://img.shields.io/badge/Muhamed%20Sultan-grey?style=flat&logo=github)](https://github.com/Muhamed_Sultan)
+
+<br>
+
 </div>
 
 <hr>
@@ -27,7 +33,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6F00?style=flat&logo=code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
